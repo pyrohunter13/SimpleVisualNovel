@@ -1,0 +1,176 @@
+start game
+
+	scene lecturehall
+
+
+    n "Hari ini, sepertinya aku akan melakukan sesuatu yang luar biasa." . l
+
+    n "Sesuatu yang telah kutunggu-tunggu sejak lama."  . l
+
+    n "Pertama kali aku melihatnya, hatiku sangat bergetarrrr....." . l
+
+    n "Aku merasa dialah orangnya" . l
+
+    show sylvie green normal
+
+    n "Hari ini, aku akan mengajak Sylvie, ngoding bareng." . l
+
+    n "Sebenarnya, aku agak takut untuk mengajaknya, sebab orang bilang senyman Sylvie sangat mematikan." . l
+
+    n "Tapi, aku memberanikan diri untuk hari ini." . l
+
+    n "Aku sudah mempersiapkan ini sejak lama, aku harus bisa." . l
+
+    menu:
+
+            c1 "Ajak hari ini." .
+
+            c2 "Nanti aja dah, belum siap hayati." .
+
+                1 ajak_ . l
+
+                2 nanti_ . l
+
+    label ajak_ l
+
+    show sylvie green normal
+
+    s "Hai kamu, gimana UAS Java bisa gak?" . l
+
+    m "Ya... gitulah, kek biasa. sysout aja semua. Hehe..." . l
+
+    s "Dasar B***. "(sylvie dalem hati) . l
+
+    show sylvie green surprised
+
+    s "Wah, emg the best kau ya... Mantap..." . l
+
+    show sylvie green normal
+
+    m "Hehe ya begitulah..." . l
+
+    menu:
+
+                c1 "Ajak sylvie ke taman" .
+
+                c2 "Ajak Sylvie nongki sambil ngopi di jalan" .
+
+                    1 ngobrol_ . l
+
+                    2 jalan_ . l
+
+    label jalan_ l
+
+    m "Eh Sylvie, kita ngopi yuk di starling." . l
+
+    show sylvie green surprised
+
+    s "Starling?" . l
+
+    show sylvie green smile
+
+    s "Cafe baru ya itu? Ayo... ayo..." . l
+
+    m "Oke skuy..." . l
+
+    scene meadow
+
+    m "Oke kita dah sampe ni..." . l
+
+    show sylvie green surprised
+
+    s "Hah? Mana cafenya?" . l
+
+    m "Tuh..." . l
+
+    s "Haah???" . l
+
+    m "Iya starling, starbucks keliling." . l
+
+    m "Yuk ngopi sambil kita ngobrol." . l
+
+    show sylvie green smile
+
+    s "Heheh... aku kayaknya harus kerjain makalah B.Indo deh, Latar belakangku keknya belum kuat hehe..." . l
+
+    show sylvie green giggle
+
+    s "Bye..." . l
+
+    show sylvie kosong
+
+    m "Ah.. senyuman mematikan itu... yasudahlah memang jadi Solo Player itu terbaik." . l
+
+    scene black
+
+    n "Solo Player is The Best Guys..." . l
+
+    n "Good Ending." . l
+
+    n "Solo Player FOREVER!!!!" . l
+
+    return
+
+
+    label ngobrol_ l
+
+    m "Eh Sylvie, nongki yu di taman." . l
+
+    show sylvie green smile
+
+    s "Hmm... boleh deh, tapi jangan lama-lama ya aku mau kerjain Makalah B.Indo nih." . l
+
+    m "Oke, cuman mau ngobrol sebentar kok." . l
+
+    scene uni
+
+    show sylvie blue normal
+
+    m "Weh perasaan tadi kamu pake baju ijo dah, kok sekarang jadi biru." . l
+
+    s "Iya nih, yang program b***. Ganti baju ane bang." . l
+
+    n "Asiap... sorry sylvie." . l
+
+    show sylvie green normal
+
+    s "Nah gini baru bener, kan bagus ijo-ijo, Go green man..." . l
+
+    m "Eh Sylvie, aku mau ngomong." . l
+
+    s "Eh iya, udah jam 4 nih, aku mau kerjain B.Indo aku duluan ya..." . l
+
+    show sylvie green giggle
+
+    s "Byee byee..." . l
+
+    show sylvie kosong
+
+    m "Hah.. yasudahlah memang takdirku selalu jadi Solo Player." . l
+
+    scene black
+
+    n "Bad Ending" . l
+
+    n "Makanya sadar tampang cuy." . l
+
+    return
+
+
+    label nanti_ l
+
+    scene black
+
+    n "Yaelah dasar cowok penakut." . l
+
+    n "Gimana mau punya cewe coba kalo ga mau mencoba." . l
+
+    n "Kecewa saya." . l
+
+    show sylvie blue giggle
+
+    n "Bad Ending." . l
+
+    scene black
+
+    return

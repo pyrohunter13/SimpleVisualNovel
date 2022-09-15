@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e41359-8c1b-4e54-83d9-416d3e669636" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZNkHdJNTtDIHAnl0cWeAobSvG0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileReader" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReader" />
+      <module name="Visual Novel Engine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Visual Novel Engine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e41359-8c1b-4e54-83d9-416d3e669636" name="Default Changelist" comment="" />
+      <created>1584686853419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584686853419</updated>
+      <workItem from="1584686856157" duration="847000" />
+      <workItem from="1584687816191" duration="2705000" />
+      <workItem from="1584720426538" duration="48000" />
+      <workItem from="1585123985810" duration="708000" />
+      <workItem from="1585124737246" duration="386000" />
+      <workItem from="1585125163915" duration="3199000" />
+      <workItem from="1585205469161" duration="1837000" />
+      <workItem from="1585240386087" duration="487000" />
+      <workItem from="1585549340557" duration="2877000" />
+      <workItem from="1585630377322" duration="237000" />
+      <workItem from="1585720074921" duration="2772000" />
+      <workItem from="1586158670988" duration="516000" />
+      <workItem from="1586159408485" duration="1446000" />
+      <workItem from="1586230965524" duration="6507000" />
+      <workItem from="1586240728646" duration="1172000" />
+      <workItem from="1586330237608" duration="214000" />
+      <workItem from="1586330500828" duration="163000" />
+      <workItem from="1586330857352" duration="378000" />
+      <workItem from="1586407823559" duration="42000" />
+      <workItem from="1586500408416" duration="5455000" />
+      <workItem from="1586507537344" duration="36000" />
+      <workItem from="1586509278767" duration="3175000" />
+      <workItem from="1586521963089" duration="8313000" />
+      <workItem from="1586580542249" duration="21612000" />
+      <workItem from="1586619084086" duration="9937000" />
+      <workItem from="1586632924392" duration="12135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="98" key="#Project_Structure" timestamp="1604742523352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="314" y="98" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604742523352" />
+    <state width="1328" height="279" key="GridCell.Tab.0.bottom" timestamp="1604743993363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604743993363" />
+    <state width="1328" height="279" key="GridCell.Tab.0.center" timestamp="1604743993362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604743993362" />
+    <state width="1328" height="279" key="GridCell.Tab.0.left" timestamp="1604743993362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604743993362" />
+    <state width="1328" height="279" key="GridCell.Tab.0.right" timestamp="1604743993363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604743993363" />
+    <state x="685" y="144" key="new project wizard" timestamp="1605512160827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="144" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605512160827" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Visual_Novel_Engine$Main.ic" NAME="Main Coverage Results" MODIFIED="1604742550252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
